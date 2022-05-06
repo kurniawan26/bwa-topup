@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import Menu from './menu';
+import Menu from './Menu';
 import Auth from './Auth';
 import TogglerMenu from './TogglerMenu';
 
